@@ -1,0 +1,21 @@
+# ninja log v5
+14	9926	1704884011008056839	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	59d5dec0bfab60d2
+13	10962	1704884012049872920	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	97aa8dc84873b3fe
+12	10872	1704884011950268940	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	d42beed5e7966da3
+11	10855	1704884011939136827	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	94e2e590b17e4506
+9926	16353	1704884017379698791	/Users/yusufgocmen/SpinatchV2/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/501p1b6t/obj/arm64-v8a/libswappywrapper.so	4010f6b41e53b260
+12	11647	1704884012729723808	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	286a512ecf50f0c5
+13	11058	1704884012133487663	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	ee54c3f356352903
+11	11138	1704884012219727883	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	43dc606a892906c5
+11647	16354	1704884017379622125	/Users/yusufgocmen/SpinatchV2/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/501p1b6t/obj/arm64-v8a/libgame.so	f24628faf67a3fa
+15	11634	1704884012674099118	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	fe467256dd83f0aa
+26	12381	1704885245525449985	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	59d5dec0bfab60d2
+21	13988	1704885247127916065	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	d42beed5e7966da3
+19	14006	1704885247159012036	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	94e2e590b17e4506
+24	14062	1704885247219258568	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	97aa8dc84873b3fe
+18	14291	1704885247432541963	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	43dc606a892906c5
+25	14294	1704885247448040573	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	ee54c3f356352903
+21	14730	1704885247883753997	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	286a512ecf50f0c5
+17	14847	1704885248000002661	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	fe467256dd83f0aa
+12381	21370	1704885253120811098	/Users/yusufgocmen/SpinatchV2/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/501p1b6t/obj/arm64-v8a/libswappywrapper.so	4010f6b41e53b260
+14847	21378	1704885253133493885	/Users/yusufgocmen/SpinatchV2/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/501p1b6t/obj/arm64-v8a/libgame.so	f24628faf67a3fa
